@@ -8,6 +8,7 @@ Analyzing COVID-19 publications and summarizing the publications across topics
 - ### Files Needed
   - #### Download XML File
     Link: https://github.com/midas-network/COVID-19/tree/master/documents/mendeley_library_files/xml_files
+    
     Download the mendeley_document_library_2020-03-25.xml File and place in the notebook directory.
   
   - #### Download GloVe Word Embeddings
@@ -15,8 +16,8 @@ Analyzing COVID-19 publications and summarizing the publications across topics
     
     !wget http://nlp.stanford.edu/data/glove.6B.zip
     !unzip glove*.zip
-  
-  Download the the zip file and unzip in the same directory where Python notebooks are downloaded.
+    
+    Download the the zip file and unzip in the same directory where Python notebooks are downloaded.
   
 ## Files Included
 - ### ClusterData.ipynb: Perform data preprocessing and identifies the cluster of Topics
