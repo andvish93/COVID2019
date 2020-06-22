@@ -4,6 +4,7 @@ Analyzing COVID-19 publications and summarizing the publications across topics
 ## Dependency
 - ### Libraries Needed
   Pandas, Numpy, NLTK, Scapy, Matplotlib, String, Sklearn, Networkx, bs4
+  
   Scapy:
   - pip install spacy
   - python -m spacy download en
