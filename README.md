@@ -26,8 +26,8 @@ Analyzing COVID-19 publications and summarizing the publications across topics
   ### Summarizer.ipynb: Generates one liner for each topic
   
 ## How To Run
-  1.) Download the XML file and GloVe
-  2.) Run the Notebook in the below order:
-    a.) ClusterData.ipynb
-    b.) Topics.ipynb
-    c.) Summarizer.ipynb
+- Download the XML file and GloVe
+- Run the Notebook in the below order:
+  - ClusterData.ipynb
+  - Topics.ipynb
+  - Summarizer.ipynb
